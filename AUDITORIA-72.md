@@ -6,7 +6,7 @@ Resultado: **47 aprovados, 23 com atenção, 0 falhas e 2 não aplicáveis**. Po
 
 As pendências incluem integrações reais de CRM e Analytics, validação profissional/legal e configurações da operação definitiva. A demonstração pode ser apresentada; esses serviços não são anunciados como conectados.
 
-A estrutura visual foi refeita após comparação com projetos anteriores: capa editorial clara, título central, filme horizontal, destinos antes do perfil, serviços e imprensa em linhas, processo 2 × 2 e contato empilhado. A matriz de diferenciação e a comparação com Downtown Boston Realty acompanham o pacote.
+A estrutura visual foi refeita após comparação com projetos anteriores: capa cinematográfica com vídeo em tela cheia, título editorial sobreposto, destinos antes do perfil, serviços e imprensa em linhas, processo 2 × 2 e contato empilhado. A matriz de diferenciação, a pesquisa do novo vídeo e a comparação com Downtown Boston Realty acompanham o pacote.
 
 | Item | Critério | Status | Evidência ou limite |
 |---|---|---|---|
@@ -60,7 +60,7 @@ A estrutura visual foi refeita após comparação com projetos anteriores: capa 
 | 48 | Origem/campanha do lead preservada quando possível | Aprovado | UTM permitidas preservadas; parâmetros pessoais excluídos dos eventos. |
 | 49 | Integração com CRM do LeadPilot | Atenção | LeadPilot não conectado; nenhum recebimento real de lead alegado. |
 | 50 | Teste real dos eventos antes da publicação | Atenção | Teste local de privacidade de Analytics passou; enhanced measurement da conta real exige revisão. |
-| 51 | Logo e identidade visual | Aprovado | Identidade e arquitetura visual próprias: capa central, filme horizontal e sequência narrativa distinta; marca real de Daniel preservada. |
+| 51 | Logo e identidade visual | Aprovado | Identidade e arquitetura visual próprias: capa cinematográfica em tela cheia, título editorial sobreposto e sequência narrativa distinta; marca real de Daniel preservada. |
 | 52 | Informações reais do negócio | Aprovado | Pesquisa com fontes; resultados anuais de 2025 atribuídos à RealTrends, sem alegar clientes famosos. |
 | 53 | Telefone/WhatsApp conferidos | Aprovado | Telefone +1 954 305-3843 e WhatsApp corretos; schema e navegação revisados nos três idiomas. |
 | 54 | Endereço e horários conferidos | Atenção | Endereço público conferido; horários, licença e contato preferencial exigem confirmação do titular. |

@@ -1,6 +1,6 @@
 # Daniel Dourado — site completo
 
-Revisão visual de 16/09/2026: capa editorial clara com título centralizado, vídeo horizontal, destinos antes do perfil, serviços e imprensa em linhas, processo em grade e contato empilhado. A estrutura foi comparada com projetos anteriores e com Downtown Boston Realty; consulte MATRIZ-DIFERENCIACAO-VISUAL.md.
+Revisão visual de 16/09/2026: novo vídeo residencial em capa de tela cheia, título e ações sobrepostos, destinos antes do perfil, serviços e imprensa em linhas, processo em grade e contato empilhado. A mídia e a estrutura foram comparadas com projetos anteriores e referências; consulte MEDIA-VERIFICADA.md e MATRIZ-DIFERENCIACAO-VISUAL.md.
 
 Website estático nos idiomas português brasileiro, inglês e espanhol. A raiz contém index.html, pastas pt-br/en/es, assets, favicon, robots, sitemap e 404. Não requer npm ou servidor de aplicação. Preserve a estrutura de pastas; não envie apenas arquivos HTML isolados.
 

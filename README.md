@@ -2,7 +2,7 @@
 
 **[Abrir demonstração pronta para apresentação](https://leandroramos1985.github.io/Daniel-Dourado-GT/pt-br/)**
 
-Website em português, inglês e espanhol, com arquitetura editorial própria, marca e retrato do profissional, vídeo arquitetônico, seis páginas regionais por idioma e contatos públicos conferidos. A revisão de 16/09/2026 substituiu o hero dividido por capa tipográfica central, filme horizontal e nova sequência narrativa.
+Website em português, inglês e espanhol, com arquitetura editorial própria, marca e retrato do profissional, vídeo arquitetônico, seis páginas regionais por idioma e contatos públicos conferidos. A revisão de 16/09/2026 usa o novo Pexels 38675658 como capa cinematográfica de tela cheia, com título e ações sobrepostos.
 
 ## Arquivos e publicação
 

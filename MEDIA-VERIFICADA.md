@@ -1,44 +1,32 @@
 # Verificação de mídia — Daniel Dourado
 
-Data da consulta e inspeção: 15/09/2026. Decisão: **selecionar o vídeo Pexels 37694699**, dentro do escopo de comparação documentado abaixo.
+Data da nova seleção: 16/09/2026. Decisão: **substituir o vídeo anterior pelo Pexels 38675658 e usá-lo como fundo da capa**.
 
-## Fonte e uso
+## Fonte e adequação
 
-[Luxury Staircase in Modern Home Interior — Alef Morais, Pexels](https://www.pexels.com/video/luxury-staircase-in-modern-home-interior-37694699/). Arquivo consultado: https://videos.pexels.com/video-files/37694699/15982778_1440_2560_30fps.mp4. Vídeo vertical, aproximadamente seis segundos. O quadro real mostra degraus de madeira, parede lateral de pedra irregular, guarda-corpo de vidro e teto de madeira, com luz natural. É mídia ilustrativa de arquitetura; não apresenta um imóvel específico de Daniel nem comprova localização na Flórida.
+[Modern Luxury Backyard with Poolside Oasis — Alef Morais, Pexels](https://www.pexels.com/video/modern-luxury-backyard-with-poolside-oasis-38675658/). A página consultada informa formato 16:9, resolução original 3840 × 2160, duração de cinco segundos, autoria de um fotógrafo e filmmaker imobiliário e licença gratuita do Pexels. Foram baixadas as versões HD 1280 × 720 e SD 640 × 360 disponibilizadas pela própria página.
 
-A [licença Pexels](https://www.pexels.com/license/) foi consultada. Ela permite uso gratuito, inclusive comercial, e alterações, sem atribuição obrigatória, sujeitas às restrições publicadas. Esta seleção não representa propriedade exclusiva sobre o vídeo.
+O filme mostra área externa residencial contemporânea, piscina e paisagismo tropical. A mídia é ilustrativa: não representa um imóvel específico de Daniel e não comprova localização na Flórida.
 
-## Comparação visual efetivamente realizada
+A [licença Pexels](https://www.pexels.com/license/) permite uso gratuito, inclusive comercial, e alterações, sem atribuição obrigatória, sujeitas às restrições publicadas. Isso não concede exclusividade sobre o vídeo.
 
-O candidato foi aberto como imagem real, e comparado com quadros extraídos dos vídeos das referências em 1, 3 e 5 segundos. Os arquivos e URLs foram registrados em `work/daniel/media-review/reference-manifest.json`; a folha de contato de comparação foi inspecionada visualmente. As descrições abaixo referem-se aos quadros amostrados, não à totalidade de cada catálogo.
+## Pesquisa de repetição
 
-| Referência | Mídia comparada e observação |
-|---|---|
-| [Val Paixão](https://valpaixaocasanadisney.com/) | Vídeo `25557275-2DD9-4173-B258-89F4E2223D93.mp4`: mulher apresentando informação em ambiente interno. Distinto da escada. |
-| [Erika Realtor Florida](https://erikarealtorflorida.com/) | Vídeo do hero recuperado do HTML, URL `https://clxljpq98i.ufs.sh/f/WDxBCISFMzhintWBTfUeHXxIGMoNkjqB65y1COm0fbhUuZSQ`: vista de Lake Eola e skyline, inspecionada em 1, 3 e 5 segundos. Distinto. |
-| [Erika Barretto](https://erikabarretto.com/) | Imagem real `wp-content/uploads/2025/07/mls_house2.jpg`: área externa amarela com piscina. Distinta. Não foi recuperado vídeo de hero no inventário/HTML consultado; não se afirma comparação com vídeo inexistente ou inacessível. |
-| [Marilene Araujo](https://leandroramos1985.github.io/Marilene-Araujo-Atualizado/) | Pexels 7578541 e 7578552: fachada moderna e sala de jantar. Distintos; a sala tem madeira e vidro como materiais gerais, mas não a mesma escada, parede ou composição. |
-| [Ana Roque](https://leandroramos1985.github.io/ANA-ROQUE-ATUAL-2357/) | Pexels 17224719, 29466043 e 31617692: fachada aérea moderna, mansão clássica e interiores de cozinha/sala. Não foi identificada a cena da escada do candidato. |
-| [D&R Realty](https://leandroramos1985.github.io/dr-realty-CL/) | Pexels 12595925: aérea urbana. Distinta. |
-| Projeto anterior Allan Freitas | Arquivo local `coastal-sunset.mp4`: dunas/vegetação, estrada e pôr do sol. Distinto. |
-| Projeto anterior Emmanuel Souza | Arquivo local `icon-park-candidate.mp4`: roda-gigante e aérea do Icon Park. Distinto. |
+Foram pesquisados o identificador exato `38675658`, o título “Modern Luxury Backyard with Poolside Oasis” e combinações com `realtor`, `realty`, `real estate`, `property` e `imóveis`, excluindo o próprio Pexels quando aplicável. Nenhum resultado indexado confirmou o uso desse arquivo por outro site imobiliário. Resultados imobiliários genéricos retornados pela pesquisa não continham o identificador do vídeo.
 
-O inventário também contém [ddourado.com](https://ddourado.com/), [Laiane Neto](https://leandroramos1985.github.io/laiane-neto-realtor/) e [Site Imobiliária](https://site-imobiliaria-six.vercel.app/), sem ativos absolutos recuperados na coleta. Isso pode decorrer de SPA, caminhos relativos, indisponibilidade ou outro limite da extração. Não foram contabilizados como comparações visuais completas. O site e a página Sobre de Daniel foram consultados como fonte de identidade do cliente.
+Também foi feita a comparação temática com as referências registradas no briefing. O vídeo não repete a aérea urbana de Boston do Downtown Boston Realty, a vista de Lake Eola da Erika Realtor Florida, a apresentação interna da Val Paixão, a roda-gigante do Emmanuel Souza, as dunas do Allan Freitas nem os vídeos já registrados nos demais projetos analisados.
 
-## Pesquisa por uso do arquivo
+Esta verificação é uma busca textual e uma comparação visual dos ativos acessíveis. Ela não equivale a pesquisa reversa mundial. Um arquivo renomeado, privado, não indexado ou servido por outro endereço pode não aparecer. A conclusão documentada é: **não foi encontrado uso indexado do mesmo vídeo em outro site do nicho na pesquisa realizada**.
 
-Consultas feitas na pesquisa web: `"37694699" realtor -site:pexels.com`; `"37694699" "real estate" -site:pexels.com`; `"37694699" -site:pexels.com`; `"15982778" realtor -site:pexels.com`; `"15982778_1440_2560_30fps.mp4"`; e a mesma expressão excluindo Pexels. Consulta adicional à página Pexels confirmou título e autor. Não houve resultado que confirmasse o mesmo arquivo em site imobiliário. Resultados de identificadores isolados eram principalmente homônimos sem relação com o vídeo.
+## Implementação
 
-Este procedimento é busca textual e comparação visual de amostras. **Não houve pesquisa reversa por imagem, varredura mundial de sites, nem comprovação de exclusividade.** Um arquivo pode estar renomeado, hospedado em outro domínio ou fora do índice do buscador. A conclusão é apenas que não se identificou repetição nos ativos efetivamente comparados.
+- Desktop: `assets/hero-cover.mp4`, 1280 × 720.
+- Mobile: `assets/hero-cover-mobile.mp4`, 640 × 360.
+- Poster: `assets/hero-cover-poster.webp`.
+- Origem validada: `https://videos.pexels.com/video-files/38675658/16428585_2560_1440_30fps.mp4`.
 
-## Alternativas descartadas
-
-- Pexels 32245329: descartado na triagem por ser sequência vertical curta, aproximadamente quatro segundos, de escada urbana/arquitetura abstrata, com adequação menor à apresentação residencial pretendida. Não se afirma que foi usado por concorrentes ou que sua licença impedia uso.
-- Pexels 7239156: alternativa não selecionada; descartada por preferência editorial de evitar uma opção anterior de stock mais comum. Não se atribui popularidade medida, repetição confirmada ou exclusividade à alternativa escolhida.
+O vídeo ocupa toda a primeira dobra. Título, texto e ações ficam sobrepostos com gradiente de contraste, controle de pausa e tratamento responsivo.
 
 ## Retrato do cliente
 
-O retrato de Daniel usado no projeto vem do site atual autorizado do próprio cliente. A repetição dessa identidade pessoal é esperada e constitui exceção ao critério de evitar fotos genéricas repetidas. Não foi aprovado uso de retratos de outros profissionais, nem reutilização de suas marcas.
-# Adendo — Downtown Boston Realty (16/09/2026)
-
-Referência adicionada e inspecionada: https://downtownbostonrealty.com/. O hero observado utiliza vista aérea da skyline de Boston, em tela cheia, hospedada no Cloudinary com identificador `t6o2pgy6koxe9o1uzcnl`. O filme selecionado para Daniel mostra o interior de uma residência, com escada, madeira, pedra e luz natural (Pexels 37694699). Não há igualdade nem semelhança visual relevante entre as cenas avaliadas: variam assunto, ambiente, perspectiva, movimento e composição. A ausência de conflito nesta comparação não constitui prova de exclusividade mundial.
+O retrato de Daniel vem do site atual autorizado do próprio cliente. Essa identidade pessoal é exceção ao critério de evitar fotografias genéricas repetidas.
