@@ -1,10 +1,12 @@
 # Auditoria real dos 72 itens — Daniel Dourado
 
-Data: 15/09/2026. Demonstração publicada e testada no GitHub Pages.
+Data da revisão estrutural: 16/09/2026. Demonstração testada localmente e, depois da atualização, novamente no GitHub Pages.
 
 Resultado: **47 aprovados, 23 com atenção, 0 falhas e 2 não aplicáveis**. Pontuação estrita: 67.1% dos 70 itens aplicáveis. Itens com atenção não contam como aprovados.
 
 As pendências incluem integrações reais de CRM e Analytics, validação profissional/legal e configurações da operação definitiva. A demonstração pode ser apresentada; esses serviços não são anunciados como conectados.
+
+A estrutura visual foi refeita após comparação com projetos anteriores: capa editorial clara, título central, filme horizontal, destinos antes do perfil, serviços e imprensa em linhas, processo 2 × 2 e contato empilhado. A matriz de diferenciação e a comparação com Downtown Boston Realty acompanham o pacote.
 
 | Item | Critério | Status | Evidência ou limite |
 |---|---|---|---|
@@ -22,7 +24,7 @@ As pendências incluem integrações reais de CRM e Analytics, validação profi
 | 12 | Meta title único por página | Aprovado | 33 títulos únicos verificados em seo-audit.json. |
 | 13 | Meta description única por página | Aprovado | 33 descrições únicas verificadas em seo-audit.json. |
 | 14 | H1 único e hierarquia correta de H2/H3 | Aprovado | Um H1 por página; hierarquia semântica revisada e AXE sem violações. |
-| 15 | Títulos e conteúdo sem duplicações desnecessárias | Aprovado | Conteúdo próprio nos três idiomas e seis regiões; sem textos do cliente anterior. |
+| 15 | Títulos e conteúdo sem duplicações desnecessárias | Aprovado | Conteúdo próprio nos três idiomas e seis regiões; estrutura editorial comparada com projetos anteriores e documentada em MATRIZ-DIFERENCIACAO-VISUAL.md. |
 | 16 | Alt text contextual nas imagens | Aprovado | Marca e retrato reais identificados; descrição da filmagem traduzida. |
 | 17 | Breadcrumbs quando fizerem sentido | Aprovado | 18 páginas regionais com navegação e retorno corretos. |
 | 18 | FAQ + dados estruturados de FAQ somente quando aplicáveis | Aprovado | Quatro perguntas frequentes nos três idiomas; sem marcação artificial de FAQ. |
@@ -58,7 +60,7 @@ As pendências incluem integrações reais de CRM e Analytics, validação profi
 | 48 | Origem/campanha do lead preservada quando possível | Aprovado | UTM permitidas preservadas; parâmetros pessoais excluídos dos eventos. |
 | 49 | Integração com CRM do LeadPilot | Atenção | LeadPilot não conectado; nenhum recebimento real de lead alegado. |
 | 50 | Teste real dos eventos antes da publicação | Atenção | Teste local de privacidade de Analytics passou; enhanced measurement da conta real exige revisão. |
-| 51 | Logo e identidade visual | Aprovado | Identidade própria; marca real de Daniel preservada em monocromia legível. |
+| 51 | Logo e identidade visual | Aprovado | Identidade e arquitetura visual próprias: capa central, filme horizontal e sequência narrativa distinta; marca real de Daniel preservada. |
 | 52 | Informações reais do negócio | Aprovado | Pesquisa com fontes; resultados anuais de 2025 atribuídos à RealTrends, sem alegar clientes famosos. |
 | 53 | Telefone/WhatsApp conferidos | Aprovado | Telefone +1 954 305-3843 e WhatsApp corretos; schema e navegação revisados nos três idiomas. |
 | 54 | Endereço e horários conferidos | Atenção | Endereço público conferido; horários, licença e contato preferencial exigem confirmação do titular. |
@@ -71,7 +73,7 @@ As pendências incluem integrações reais de CRM e Analytics, validação profi
 | 61 | Teste desktop | Aprovado | Verificado no Microsoft Edge: desktop a 1440 px e cenários de acessibilidade. |
 | 62 | Teste mobile | Aprovado | Mobile e tablet emulados nos 21 cenários; não foram usados aparelhos físicos. |
 | 63 | Teste de todos os formulários | Atenção | Formulários nos três idiomas testados com endpoint local; entrega externa pendente. |
-| 64 | Teste de todos os CTAs | Aprovado | CTAs, idiomas, menu, Escape, FAQ, regiões e controles de vídeo testados. |
+| 64 | Teste de todos os CTAs | Aprovado | CTAs, idiomas, menu, foco inicial, retorno de foco com Escape, FAQ, regiões e controles de vídeo testados. |
 | 65 | Teste dos links externos | Atenção | Links externos pesquisados e testados. CARAS retorna 403 ao cliente HTTP; conteúdo verificado na pesquisa. |
 | 66 | Teste de WhatsApp, telefone e e-mail | Atenção | WhatsApp retorna HTTP 200; número e e-mail coerentes. Não foram enviados contatos de QA a terceiros. |
 | 67 | Auditoria SEO | Aprovado | 33 páginas com SEO individual; Lighthouse SEO 69 devido ao noindex intencional da demonstração. |

@@ -39,3 +39,6 @@ Este procedimento é busca textual e comparação visual de amostras. **Não hou
 ## Retrato do cliente
 
 O retrato de Daniel usado no projeto vem do site atual autorizado do próprio cliente. A repetição dessa identidade pessoal é esperada e constitui exceção ao critério de evitar fotos genéricas repetidas. Não foi aprovado uso de retratos de outros profissionais, nem reutilização de suas marcas.
+# Adendo — Downtown Boston Realty (16/09/2026)
+
+Referência adicionada e inspecionada: https://downtownbostonrealty.com/. O hero observado utiliza vista aérea da skyline de Boston, em tela cheia, hospedada no Cloudinary com identificador `t6o2pgy6koxe9o1uzcnl`. O filme selecionado para Daniel mostra o interior de uma residência, com escada, madeira, pedra e luz natural (Pexels 37694699). Não há igualdade nem semelhança visual relevante entre as cenas avaliadas: variam assunto, ambiente, perspectiva, movimento e composição. A ausência de conflito nesta comparação não constitui prova de exclusividade mundial.
